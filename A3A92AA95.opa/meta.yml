@@ -1,0 +1,22 @@
+id: A3A92AA95
+title: 'Asaṅga/Maitreya: Mahāyānasūtrālaṃkāra'
+type: translation
+pechas:
+- IA9650ED1
+- I60E53903
+- I0C7A439F
+- I1A0E00E4
+source_metadata:
+  languages:
+  - sa
+  - zh
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:23:12.811524
+  last_modified_at: 2023-02-10 00:23:12.811546
+alignment_to_base:
+  IA9650ED1/F903: '9018'
+  I60E53903/2127: '9018'
+  I0C7A439F/939D: '9018'
+  I1A0E00E4/9144: '9018'
